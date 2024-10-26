@@ -32,7 +32,7 @@ Specify the Steam path for the shader cache. Example:
 set shaderCachePath="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
 if your game is on steam but in a different drive just find where your game is intsalled follow similar path below.
 
-:: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache Drive letter mae be different.
+:: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache Drive letter may be different.
 
 Make sure to remove "" 
 after copying game path
