@@ -16,8 +16,8 @@ If the script cannot locate the paths automatically or if you need to specify di
 :: Battle.net Users:
 
 Specify the path for the shader cache. Example: set shaderCachePath="D:\Call of Duty\_retail_\cod24\shadercache"
-your Drive letter may be different.
-
+your Drive letter may be different. Make sure to remove "" 
+after copying game path ex: "D:\Call of Duty\_retail_\cod24\shadercache" it should be D:\Call of Duty\_retail_\cod24\shadercache
 ----------------------------------------
 
 :: Steam Users:
@@ -28,6 +28,13 @@ if your game is on steam but in a different drive just find where your game is i
 
 :: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache Drive letter mae be different.
 
+Make sure to remove "" 
+after copying game path ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
+for steam it should look like C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
+
+If you steam game path is in a different drive same follows
+ex: "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
+should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
 ----------------------------------------
 
 Call of Duty Documents Folder Path:
@@ -67,9 +74,9 @@ Option 6 & 7:
 ----------------------------------------
 
 ::  Understanding the Process:
-This script deletes old shader cache files and the Call of Duty Documents folder.
+This tool deletes old shader cache files and the Call of Duty Documents folder.
 Upon re-launching the game, new shader cache files and a new Documents folder will be created with default configurations.
-Note: You can manually delete these files by navigating to their respective folders. The script provides a convenient, automated way to perform the cleanup.
+Note: You can manually delete these files by navigating to their respective folders. The tool provides a convenient, automated way to perform the cleanup.
 
 ![Thumbnail Image](Thumbnail.png)
 
