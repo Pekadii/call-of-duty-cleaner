@@ -43,7 +43,7 @@ IMPORTANT:
 
 :: Backup Your Configuration File:
 Backup ( s.1.0.cod24.txt ) B06 GAME SETTINGS FILE
-Before running the script, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
+Before running the tool, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
 Backing up this file allows you to restore your settings after running the cleaner.
 
 :: Running the Cleaner:
