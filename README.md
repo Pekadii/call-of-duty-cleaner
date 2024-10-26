@@ -19,7 +19,8 @@ Specify the path for the shader cache. Example: set shaderCachePath="D:\Call of 
 your Drive letter may be different. 
 
 Make sure to remove "" 
-after copying game path ex: "D:\Call of Duty\_retail_\cod24\shadercache" it should be D:\Call of Duty\_retail_\cod24\shadercache
+after copying game path ex: "D:\Call of Duty\_retail_\cod24\shadercache" 
+Should be: D:\Call of Duty\_retail_\cod24\shadercache
 ----------------------------------------
 
 :: Steam Users:
