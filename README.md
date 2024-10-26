@@ -23,9 +23,9 @@ your Drive letter may be different.
 Make sure to remove "" 
 after copying game path
 
-# ex: "D:\Call of Duty\_retail_\cod24\shadercache" 
+## ex: "D:\Call of Duty\_retail_\cod24\shadercache" 
 
-# Should be: D:\Call of Duty\_retail_\cod24\shadercache
+## Should be: D:\Call of Duty\_retail_\cod24\shadercache
 ----------------------------------------
 
 # :: Steam Users:
@@ -34,32 +34,34 @@ Specify the Steam path for the shader cache. Example:
 set shaderCachePath="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
 if your game is on steam but in a different drive just find where your game is intsalled follow similar path below.
 
-# :: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache Drive letter may be different.
+## :: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache 
+
+Drive letter may be different.
 
 Make sure to remove "" 
 after copying game path
 
-# ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
+## ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
 
-# Should look like: C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
+## Should look like: C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
 
 If your steam game path is in a different drive same follows
 
-# ex: "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
+## ex: "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
 
-# Should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
+## Should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
 ----------------------------------------
 
-Call of Duty Documents Folder Path:
+# Call of Duty Documents Folder Path:
 The tool will look for the Documents folder in the default location:
 
-# :: C:\Users\YourUsername\Documents\Call of Duty 
+## :: C:\Users\YourUsername\Documents\Call of Duty 
 
 If it does not find the folder, you will be prompted to enter the path manually.
 
 ----------------------------------------
 
-IMPORTANT:
+# IMPORTANT:
 
 # :: Backup Your Configuration File:
 Backup ( s.1.0.cod24.txt ) B06 GAME SETTINGS FILE
