@@ -16,7 +16,9 @@ If the script cannot locate the paths automatically or if you need to specify di
 :: Battle.net Users:
 
 Specify the path for the shader cache. Example: set shaderCachePath="D:\Call of Duty\_retail_\cod24\shadercache"
-your Drive letter may be different. Make sure to remove "" 
+your Drive letter may be different. 
+
+Make sure to remove "" 
 after copying game path ex: "D:\Call of Duty\_retail_\cod24\shadercache" it should be D:\Call of Duty\_retail_\cod24\shadercache
 ----------------------------------------
 
