@@ -1,7 +1,7 @@
 # Call of Duty Cleaner
 
-Instructions for Using the Call of Duty Cleaner Script Automatic Path Detection
-The script will attempt to automatically detect the locations of the shader cache 
+Instructions for Using the Call of Duty Cleaner Automatic Path Detection
+The tool will attempt to automatically detect the locations of the shader cache 
 and Call of Duty Documents folders. If it fails to find these paths, you will be prompted to enter them manually.
 ------------------------------------------------------------------------------------------------------------------
 
