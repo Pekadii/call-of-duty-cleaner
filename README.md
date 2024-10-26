@@ -55,6 +55,6 @@ This script deletes old shader cache files and the Call of Duty Documents folder
 Upon re-launching the game, new shader cache files and a new Documents folder will be created with default configurations.
 Note: You can manually delete these files by navigating to their respective folders. The script provides a convenient, automated way to perform the cleanup.
 
-![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/Thumbnail.png?raw=true)
+![Thumbnail Image]()
 
 
