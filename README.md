@@ -55,11 +55,13 @@ You will need to re-watch the intro cutscene, and the shader cache will be re-do
 ----------------------------------------
 
 Option 4 & 5:
+
 :: If Battle Net or Steam has any problems its best to just uninstall the launcher.
 
 ----------------------------------------
 
 Option 6 & 7:
+
 :: Install Battle Net or Steam.
 
 ----------------------------------------
