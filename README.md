@@ -43,7 +43,8 @@ after copying game path
 
 ## ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
 
-## Should look like: C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
+## Should look like: 
+C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
 
 If your steam game path is in a different drive same follows
 
