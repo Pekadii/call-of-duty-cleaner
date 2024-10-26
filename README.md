@@ -41,7 +41,7 @@ ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shaderc
 
 Should look like: C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
 
-If you steam game path is in a different drive same follows
+If your steam game path is in a different drive same follows
 ex: "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
 
 should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
