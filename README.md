@@ -40,6 +40,7 @@ If it does not find the folder, you will be prompted to enter the path manually.
 ----------------------------------------
 
 IMPORTANT:
+
 :: Backup Your Configuration File:
 Backup ( s.1.0.cod24.txt ) B06 GAME SETTINGS FILE
 Before running the script, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
