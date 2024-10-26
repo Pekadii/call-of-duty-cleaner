@@ -5,7 +5,7 @@ The script will attempt to automatically detect the locations of the shader cach
 and Call of Duty Documents folders. If it fails to find these paths, you will be prompted to enter them manually.
 ------------------------------------------------------------------------------------------------------------------
 
-:: 1. Running the Script
+:: 1. Running the tool:
 Choose Option 3: This will automatically search for the shader cache and Call of Duty Documents folders across common drive letters.
 If the paths are detected successfully, you’ll see a message confirming the paths.
 If the paths are not detected, you can enter them manually when prompted.
@@ -15,7 +15,7 @@ If the script cannot locate the paths automatically or if you need to specify di
 
 :: Battle.net Users:
 
-Specify the path for the shader cache. Example: set shaderCachePath="D:\Call of Duty\_retail_\cod23\shadercache"
+Specify the path for the shader cache. Example: set shaderCachePath="D:\Call of Duty\_retail_\cod24\shadercache"
 your Drive letter may be different.
 
 ----------------------------------------
@@ -23,10 +23,10 @@ your Drive letter may be different.
 :: Steam Users:
 
 Specify the Steam path for the shader cache. Example: 
-set shaderCachePath="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod23\shadercache"
+set shaderCachePath="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
 if your game is on steam but in a different drive just find where your game is intsalled follow similar path below.
 
-:: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod23\shadercache Drive letter mae be different.
+:: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache Drive letter mae be different.
 
 ----------------------------------------
 
@@ -39,8 +39,9 @@ If it does not find the folder, you will be prompted to enter the path manually.
 
 ----------------------------------------
 
+IMPORTANT:
 :: Backup Your Configuration File:
-Backup options.4.cod23.cst:
+Backup ( s.1.0.cod24.txt ) B06 GAME SETTINGS FILE
 Before running the script, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
 Backing up this file allows you to restore your settings after running the cleaner.
 
@@ -49,6 +50,18 @@ Select Option 1 for cleaning the shader cache.
 Select Option 2 for cleaning the Call of Duty Documents folder.
 After cleaning, launch the game. You may see a "safety message" prompt—select "No" to proceed.
 You will need to re-watch the intro cutscene, and the shader cache will be re-downloaded automatically.
+
+----------------------------------------
+
+Option 4 & 5:
+:: If Battle Net or Steam has any problems its best to just uninstall the launcher.
+
+----------------------------------------
+
+Option 6 & 7:
+:: Install Battle Net or Steam.
+
+----------------------------------------
 
 ::  Understanding the Process:
 This script deletes old shader cache files and the Call of Duty Documents folder.
