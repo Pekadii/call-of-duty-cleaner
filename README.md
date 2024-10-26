@@ -19,7 +19,10 @@ Specify the path for the shader cache. Example: set shaderCachePath="D:\Call of 
 your Drive letter may be different. 
 
 Make sure to remove "" 
-after copying game path ex: "D:\Call of Duty\_retail_\cod24\shadercache" 
+after copying game path
+
+ex: "D:\Call of Duty\_retail_\cod24\shadercache" 
+
 Should be: D:\Call of Duty\_retail_\cod24\shadercache
 ----------------------------------------
 
@@ -33,10 +36,12 @@ if your game is on steam but in a different drive just find where your game is i
 
 Make sure to remove "" 
 after copying game path ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
+
 for steam it should look like C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
 
 If you steam game path is in a different drive same follows
 ex: "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
+
 should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
 ----------------------------------------
 
