@@ -49,7 +49,7 @@ should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
 ----------------------------------------
 
 Call of Duty Documents Folder Path:
-The script will look for the Documents folder in the default location:
+The tool will look for the Documents folder in the default location:
 
 :: C:\Users\YourUsername\Documents\Call of Duty 
 
