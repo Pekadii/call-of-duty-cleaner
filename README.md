@@ -10,6 +10,12 @@
 > Before running the tool, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
 > Backing up this file allows you to restore your settings after running the cleaner.
 
+> [!WARNING]
+> # Understanding the Process:
+> This tool deletes old shader cache files and the Call of Duty Documents folder.
+> Upon re-launching the game, new shader cache files and a new Documents folder will be created with default configurations.
+> Note: You can manually delete these files by navigating to their respective folders. The tool provides a convenient, automated way to perform the cleanup.
+
 > [!TIP]
 > # Instructions for:
 > Call of Duty Cleaner Automatic Path Detection
@@ -64,12 +70,6 @@ After cleaning, launch the game. You may see a "safety message" prompt—select 
 You will need to re-watch the intro cutscene, and the shader cache will be re-downloaded automatically.
 
 ----------------------------------------
-
-> [!WARNING]
-> # Understanding the Process:
-> This tool deletes old shader cache files and the Call of Duty Documents folder.
-> Upon re-launching the game, new shader cache files and a new Documents folder will be created with default configurations.
-> Note: You can manually delete these files by navigating to their respective folders. The tool provides a convenient, automated way to perform the cleanup.
 
 ![Thumbnail Image](Thumbnail.png)
 
