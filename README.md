@@ -1,8 +1,6 @@
-![Thumbnail Image]()
-
+![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.1-brightgreen)
-
 
 > [!CAUTION]
 > # KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
