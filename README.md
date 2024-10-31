@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-green) ![Release](https://img.shields.io/badge/Release-1.7.0-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.1-brightgreen)
 # Call of Duty Cleaner
 
 ## KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
