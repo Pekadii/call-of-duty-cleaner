@@ -41,45 +41,43 @@
 
 ![Guide](images/Guide.png)
 
+- After cleaning, launch the game. You may see a "safety message" prompt—select "No" to proceed.
+You will need to re-watch the intro cutscene, and the shader cache will be re-downloaded automatically.
+
 ----------------------------------------
 
 > [!NOTE]
-> # Battle.net Users:
-> Specify the path for the shader cache.
-> ## Ex: "D:\Call of Duty\_retail_\cod24\shadercache"
-> ## Should be: D:\Call of Duty\_retail_\cod24\shadercache
-> Make sure to remove ""
-> after copying game path
-> # Steam Users:
-> Specify the Steam path for the shader cache
-> if your game is on steam but in a different drive just find where your game is intsalled follow similar path below drive letter may be different.
-> ## Ex: "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
-> ## Should be:
-> ## C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache
-> Make sure to remove ""
-> after copying game path
-> If your steam game path is in a different drive same follows
-> ## Ex: "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
-> ## Should be: D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache
+> # For Battle.net Users:
+> - Locate the shader cache path for Call of Duty on your system. This path may vary based on your installation drive.
+> - The path typically looks like this:
+> ## Example Path:
+> ## Standard installation:
+> ## "D:\Call of Duty\_retail_\cod24\shadercache"
+> ## Alternate drive installation (e.g., G: drive):
+> ## "G:\Call of Duty\_retail_\cod24\shadercache"
+> ## Important:
+> - Make sure to remove any quotation marks (") after copying the path.
+> # For Steam Users:
+> - If you installed Call of Duty through Steam, locate your shader cache path. This path may vary based on your installation drive.
+> ## Example Paths:
+> ## Standard installation:
+> ## "C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\cod24\shadercache"
+> ## Alternate drive installation (e.g., D: drive):
+> ## "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
+> ## Important:
+> - After copying the path, ensure there are no quotation marks (").
 
 ----------------------------------------
 
 # Call of Duty Documents Folder Path:
-The tool will look for the Documents folder in the default location:
+- The tool will look for the Documents folder in the default location:
 
 ## C:\Users\YourUsername\Documents\Call of Duty 
 
-If it does not find the folder, you will be prompted to enter the path manually.
+- If it does not find the folder, you will be prompted to enter the path manually.
 
 ----------------------------------------
 
-# Running the Cleaner:
-## Select Option 1 for cleaning the shader cache.
-## Select Option 2 for cleaning the Call of Duty Documents folder.
-After cleaning, launch the game. You may see a "safety message" prompt—select "No" to proceed.
-You will need to re-watch the intro cutscene, and the shader cache will be re-downloaded automatically.
-
-----------------------------------------
 
 ![Thumbnail Image](Thumbnail.png)
 
