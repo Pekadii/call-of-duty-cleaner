@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.1-brightgreen)
 
 > [!CAUTION]
-> # KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
+> ## KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
 
 > [!IMPORTANT]
 > # Backup Your Configuration File:
@@ -18,21 +18,28 @@
 > Note: You can manually delete these files by navigating to their respective folders. The tool provides a convenient, automated way to perform the cleanup.
 
 > [!TIP]
-> # Instructions for:
-> Call of Duty Cleaner Automatic Path Detection
+> # Call of Duty Cleaner - Usage Instructions:
+> This tool automatically locates and cleans specific Call of Duty directories, such as shader caches and documents. If automatic detection fails, you’ll be prompted to enter the paths manually.
 > The tool will attempt to automatically detect the locations of the shader cache
 > and Call of Duty Documents folders. If it fails to find these paths, you will be prompted to enter them manually.
-> 1. Running the tool
-> 2. Choosing Option 3
-> 3. This will automatically search for the shader cache and Call of Duty Documents folders across common drive letters.
-> 4. If the paths are detected successfully, you’ll see a message confirming the paths.
-> 5. If the paths are not detected, you can enter them manually when prompted.
-> 6. Setting Custom Paths (If Necessary)
-> If the tool cannot locate the paths automatically or if you need to specify different paths, you can manually set the paths as follows:
-> # Option 4 - 5
-> ## If Battle Net or Steam has any problems its best to just uninstall the launcher.
-> # Option 6 - 7
-> ## Install Battle Net or Steam.
+> # Launch the Tool:
+> - Run the application ( Paste your key ) to access the main menu.
+> # Path Detection:
+> - Select Option 3 to attempt automatic detection of your shader cache and Call of Duty Documents folder.
+> - The tool will search through common drive locations.
+> # Confirm Detection:
+> - If the paths are detected successfully, a confirmation message will appear.
+> - If not, you’ll be prompted to enter the paths manually.
+> # Set Custom Paths (if required):
+> - In cases where the tool can’t detect paths or you need to use custom directories, use Option 3 to manually specify the paths.
+> # Option 4 - 5: Uninstall Battle.net or Steam Game
+> - If you encounter issues with Battle.net or Steam, it’s often best to uninstall and reinstall the launcher.
+> # Option 6 - 7: Reinstall Battle.net or Steam:
+> - Quickly reinstall the necessary launchers for Call of Duty support.
+
+
+![Thumbnail Image]()
+
 
 > [!NOTE]
 > # Battle.net Users:
