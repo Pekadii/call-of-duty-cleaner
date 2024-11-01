@@ -79,6 +79,5 @@ You will need to re-watch the intro cutscene, and the shader cache will be re-do
 ----------------------------------------
 
 
-![Thumbnail Image](Thumbnail.png)
-
+![Thumbnail Image](images/Thumbnail.png)
 
