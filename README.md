@@ -38,7 +38,7 @@
 > - Quickly reinstall the necessary launchers for Call of Duty support.
 
 
-![Thumbnail Image]()
+![Thumbnail Image](images/Guide.png)
 
 
 > [!NOTE]
