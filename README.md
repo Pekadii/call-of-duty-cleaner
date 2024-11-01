@@ -7,7 +7,7 @@
 
 > [!IMPORTANT]
 > # Backup Your Configuration File:
-> ### Backup your ( s.1.0.cod24.txt ) BO6 GAME SETTINGS FILE
+> ### Backup your ( s.1.0.cod24.txt ) BO6 GAME SETTINGS FILE!
 > Before running the tool, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
 > Backing up this file allows you to restore your settings after running the cleaner.
 
@@ -37,9 +37,11 @@
 > # Option 6 - 7: Reinstall Battle.net or Steam:
 > - Quickly reinstall the necessary launchers for Call of Duty support.
 
+----------------------------------------
 
-![Thumbnail Image](images/Guide.png)
+![Guide](images/Guide.png)
 
+----------------------------------------
 
 > [!NOTE]
 > # Battle.net Users:
