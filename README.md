@@ -1,5 +1,7 @@
 ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
+![Thumbnail Image](images/Thumbnail.png)
+
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.1-brightgreen)
 
 > [!CAUTION]
@@ -66,18 +68,7 @@ You will need to re-watch the intro cutscene, and the shader cache will be re-do
 > ## "D:\SteamLibrary\steamapps\common\Call of Duty HQ\cod24\shadercache"
 > ## Important:
 > - After copying the path, ensure there are no quotation marks (").
-
-----------------------------------------
-
-# Call of Duty Documents Folder Path:
-- The tool will look for the Documents folder in the default location:
-
-## C:\Users\YourUsername\Documents\Call of Duty 
-
-- If it does not find the folder, you will be prompted to enter the path manually.
-
-----------------------------------------
-
-
-![Thumbnail Image](images/Thumbnail.png)
-
+> # Call of Duty Documents Folder Path:
+> - The tool will look for the Documents folder in the default location:
+> - If it does not find the folder, you will be prompted to enter the path manually.
+> ## C:\Users\YourUsername\Documents\Call of Duty
