@@ -1,6 +1,6 @@
 ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
-![Thumbnail Image]()
+![Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Main.png)
 
 ![Thumbnail Image](images/Thumbnail.png)
 
