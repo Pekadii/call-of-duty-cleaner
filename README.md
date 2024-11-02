@@ -1,5 +1,7 @@
 ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
+![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Main.png)
+
 ![Thumbnail Image](images/Thumbnail.png)
 
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.1-brightgreen)
