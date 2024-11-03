@@ -4,8 +4,6 @@
 
 ![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Game-Selection.png)
 
-![Image2](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Select-Options.png)
-
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.2-brightgreen)
 
 > [!CAUTION]
@@ -64,6 +62,8 @@
 > # Exit Option:
 > - Exits the application.
 
+![Image2](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Select-Options.png)
+
 > [!TIP]
 > # Additional Instructions:
 > ## Path Detection:
@@ -73,12 +73,7 @@ Set Custom Paths (if required):
 > - Use Option 3 to manually specify the paths if the tool can't detect paths or if you need to use custom directories.
 Uninstall and Reinstall Launchers:
 > - Use Options 4-7 to uninstall or reinstall the Battle.net and Steam launchers if you encounter issues. Reinstalling can often resolve launcher-related problems.
-
-----------------------------------------
-
-![Guide](images/Guide.png)
-
-- After cleaning, launch the game. You may see a "safety message" prompt—select "No" to proceed.
+> - After cleaning, launch the game. You may see a "safety message" prompt—select "No" to proceed.
 You will need to re-watch the intro cutscene, and the shader cache will be re-downloaded automatically.
 
 ----------------------------------------
