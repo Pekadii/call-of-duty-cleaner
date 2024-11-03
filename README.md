@@ -1,13 +1,12 @@
 ![BO6 Logo](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
-![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
-
-![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Game-Selection.png)
 
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.2-brightgreen)
 
 > [!CAUTION]
-> ## KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
+> # KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
+> ## Discord https://pekadi.com
+> ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
 
 > [!IMPORTANT]
 > # Backup Your Configuration File:
@@ -20,6 +19,10 @@
 > This tool deletes old shader cache files and the Call of Duty Documents folder.
 > Upon re-launching the game, new shader cache files and a new Documents folder will be created with default configurations.
 > Note: You can manually delete these files by navigating to their respective folders. The tool provides a convenient, automated way to perform the cleanup.
+
+----------------------------------------
+
+![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Game-Selection.png)
 
 > [!TIP]
 > # Call of Duty Cleaner - Usage Instructions:
