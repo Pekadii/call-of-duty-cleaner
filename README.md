@@ -1,8 +1,10 @@
 ![BO6 Logo](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
-![Image]()
+![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
 
-![Thumbnail Image]()
+![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Game-Selection.png)
+
+![Image2](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Select-Options.png)
 
 ![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.2-brightgreen)
 
