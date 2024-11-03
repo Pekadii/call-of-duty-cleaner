@@ -30,18 +30,49 @@
 > and Call of Duty Documents folders. If it fails to find these paths, you will be prompted to enter them manually.
 > # Launch the Tool:
 > - Run the application ( Paste your key ) to access the main menu.
-> # Path Detection:
-> - Select Option 3 to attempt automatic detection of your shader cache and Call of Duty Documents folder.
-> - The tool will search through common drive locations.
+> # Path Detection & Cleaning Options:
+> # Shader Cache:
+> - Cleans the shader cache for the selected game.
+> - This helps resolve issues related to graphical rendering.
+
+> [!TIP]
+> # Cod Documents:
+> - Cleans the Call of Duty Documents folder. This can resolve issues related to game settings and user profiles.
+> # Set Custom Paths (if required):
+> - Attempts automatic detection of the shader cache and Call of Duty Documents folders. If detection fails, you’ll be prompted to manually enter the paths.
 > # Confirm Detection:
 > - If the paths are detected successfully, a confirmation message will appear.
 > - If not, you’ll be prompted to enter the paths manually.
-> # Set Custom Paths (if required):
-> - In cases where the tool can’t detect paths or you need to use custom directories, use Option 3 to manually specify the paths.
-> # Option 4 - 5: Uninstall Battle.net or Steam Game
-> - If you encounter issues with Battle.net or Steam, it’s often best to uninstall and reinstall the launcher.
-> # Option 6 - 7: Reinstall Battle.net or Steam:
-> - Quickly reinstall the necessary launchers for Call of Duty support.
+
+> [!TIP]
+> # Uninstall Options:
+> ### Uninstall Battle.net Game:
+> - Uninstalls the selected Call of Duty game from Battle.net, deleting all associated files.
+> ### Uninstall Steam Game:
+> - Uninstalls the selected Call of Duty game from Steam, deleting all associated files.
+> ## Uninstall Battle.net Launcher:
+> - Uninstalls the Battle.net launcher, stopping any active processes and removing the installation directory.
+> ### Uninstall Steam Launcher:
+> - Uninstalls the Steam launcher, stopping any active processes and removing the installation directory.
+> # Reinstall Options:
+
+> [!TIP]
+> ## Install Battle.net:
+> - Redirects to the official Battle.net download page to reinstall the Battle.net launcher.
+> ## Install Steam:
+> - Redirects to the official Steam download page to reinstall the Steam launcher.
+> # Exit Option:
+> - Exits the application.
+
+> [!TIP]
+> # Additional Instructions:
+> ## Path Detection:
+> - Select Option 3 to attempt automatic detection of your shader cache and Call of Duty Documents folders.
+The tool will search through common drive locations. If it finds the paths, a confirmation message will appear; if not, you’ll be prompted to enter the paths manually.
+Set Custom Paths (if required):
+> - Use Option 3 to manually specify the paths if the tool can't detect paths or if you need to use custom directories.
+Uninstall and Reinstall Launchers:
+> - Use Options 4-7 to uninstall or reinstall the Battle.net and Steam launchers if you encounter issues. Reinstalling can often resolve launcher-related problems.
 
 ----------------------------------------
 
