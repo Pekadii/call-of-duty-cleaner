@@ -11,6 +11,7 @@
 > [!IMPORTANT]
 > # Backup Your Configuration File:
 > ### Backup your ( s.1.0.cod24.txt ) BO6 GAME SETTINGS FILE!
+> ### Backup your ( options.4.cod23.cst ) MW3 GAME SETTINGS FILE!
 > Before running the tool, it’s recommended to copy this file from the Call of Duty Documents folder. It contains your game settings, graphics configurations, and other preferences.
 > Backing up this file allows you to restore your settings after running the cleaner.
 
