@@ -65,7 +65,7 @@
 > # Exit Option:
 > - Exits the application.
 
-![Image3]()
+![Image3](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Paths.png)
 
 > [!TIP]
 > # Additional Instructions:
