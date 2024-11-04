@@ -66,7 +66,7 @@
 > # Exit Option:
 > - Exits the application.
 
-![Image2](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Select-Options.png)
+![Image3](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Select-Options.png)
 
 > [!TIP]
 > # Additional Instructions:
