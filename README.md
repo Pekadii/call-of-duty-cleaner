@@ -22,7 +22,7 @@
 
 ----------------------------------------
 
-![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Game-Selection.png)
+![Image1]()
 
 > [!TIP]
 > # Call of Duty Cleaner - Usage Instructions:
@@ -65,7 +65,7 @@
 > # Exit Option:
 > - Exits the application.
 
-![Image3](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Select-Options.png)
+![Image3]()
 
 > [!TIP]
 > # Additional Instructions:
