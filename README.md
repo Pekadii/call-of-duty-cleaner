@@ -49,7 +49,7 @@
 > - Uninstalls the selected Call of Duty game from Battle.net, deleting all associated files.
 > ### Uninstall Steam Game:
 > - Uninstalls the selected Call of Duty game from Steam, deleting all associated files.
-> ## Uninstall Battle.net Launcher:
+> ### Uninstall Battle.net Launcher:
 > - Uninstalls the Battle.net launcher, stopping any active processes and removing the installation directory.
 > ### Uninstall Steam Launcher:
 > - Uninstalls the Steam launcher, stopping any active processes and removing the installation directory.
