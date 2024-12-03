@@ -5,7 +5,7 @@
 
 > [!CAUTION]
 > # KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
-> ## Discord: https://pekadi.com
+> # DM me on [Discord](https://pekadi.com)
 > ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
 
 > [!IMPORTANT]
