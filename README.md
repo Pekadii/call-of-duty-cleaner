@@ -1,11 +1,11 @@
 ![BO6 Logo](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/BO6.png)
 
 
-![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.3-blue)
+![License](https://img.shields.io/badge/License-MIT-blue) ![Release](https://img.shields.io/badge/Release-2.4-blue)
 
 > [!CAUTION]
 > # KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
-> # DM me on [Discord](https://pekadi.com)
+> # Contact me on [Pekadi.com](https://pekadi.com)
 > ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
 
 > [!IMPORTANT]
