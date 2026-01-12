@@ -6,7 +6,7 @@
 > [!CAUTION]
 > # KEY IS REQUIRED TO GAIN ACCESS IN TOOL!
 > # Contact me on [Pekadi.com](https://pekadi.com)
-> ![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
+![Thumbnail Image](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Key-Access-Menu.png)
 
 > [!IMPORTANT]
 > # Backup
