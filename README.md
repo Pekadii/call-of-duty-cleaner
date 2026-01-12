@@ -50,6 +50,7 @@
 > - Redirects to the official Steam download page to reinstall the Steam launcher.
 > # Exit Option:
 > - Exits the application.
+> - Logout go back to main menu to enter key.
 
 ![Image3](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Paths.png)
 
