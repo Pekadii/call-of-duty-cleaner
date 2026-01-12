@@ -20,7 +20,7 @@
 > Upon re-launching the game, new shader cache files and a new Documents folder will be created with default configurations.
 > Note: You can manually delete these files by navigating to their respective folders. The tool provides a convenient, automated way to perform the cleanup.
 
-![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Game_Selection.png)
+![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Options.png)
 
 > [!TIP]
 > # Call of Duty Cleaner - Usage Instructions:
