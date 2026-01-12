@@ -52,19 +52,7 @@
 > - Exits the application.
 > - Logout go back to main menu to enter key.
 
-![Image3](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Paths.png)
-
-> [!TIP]
-> # Additional Instructions:
-> ## Path Detection:
-> - Select Option 3 to attempt automatic detection of your shader cache and Call of Duty Documents folders.
-The tool will search through common drive locations. If it finds the paths, a confirmation message will appear; if not, you’ll be prompted to enter the paths manually.
-Set Custom Paths (if required):
-> - Use Option 3 to manually specify the paths if the tool can't detect paths or if you need to use custom directories.
-Uninstall and Reinstall Launchers:
-> - Use Options 4-7 to uninstall or reinstall the Battle.net and Steam launchers if you encounter issues. Reinstalling can often resolve launcher-related problems.
-> - After cleaning, launch the game. You may see a "safety message" prompt—select "No" to proceed.
-You will need to re-watch the intro cutscene, and the shader cache will be re-downloaded automatically.
+![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Options.png)
 
 ----------------------------------------
 
