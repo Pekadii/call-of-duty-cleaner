@@ -38,8 +38,7 @@
 > # Cod Documents:
 > - Cleans the Call of Duty Documents folder. This can resolve issues related to game settings and user profiles.
 > # Set Custom Paths (if required):
-> - Attempts automatic detection of the shader cache and Call of Duty Documents folders. If detection fails, you’ll be prompted to manually enter the paths.
-![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Options.png)
+> - Attempts automatic detection of the shader cache and Call of Duty Documents folders. If detection fails, you’ll be prompted to manually enter the paths. ![Image1](https://github.com/Pekadii/call-of-duty-cleaner/blob/main/images/Not_Found.png)
 > # Confirm Detection:
 > - If the paths are detected successfully, a confirmation message will appear.
 > - If not, you’ll be prompted to enter the paths manually.
