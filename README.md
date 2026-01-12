@@ -44,18 +44,6 @@
 > - If not, you’ll be prompted to enter the paths manually.
 
 > [!TIP]
-> # Uninstall Options:
-> ### Uninstall Battle.net Game:
-> - Uninstalls the selected Call of Duty game from Battle.net, deleting all associated files.
-> ### Uninstall Steam Game:
-> - Uninstalls the selected Call of Duty game from Steam, deleting all associated files.
-> ### Uninstall Battle.net Launcher:
-> - Uninstalls the Battle.net launcher, stopping any active processes and removing the installation directory.
-> ### Uninstall Steam Launcher:
-> - Uninstalls the Steam launcher, stopping any active processes and removing the installation directory.
-> # Reinstall Options:
-
-> [!TIP]
 > ## Install Battle.net:
 > - Redirects to the official Battle.net download page to reinstall the Battle.net launcher.
 > ## Install Steam:
